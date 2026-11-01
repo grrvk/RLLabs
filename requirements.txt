@@ -1,0 +1,7 @@
+gymnasium[classic-control]==1.4.0
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+pillow==13.0.0
+jupyter==1.1.1
+ipykernel==7.4.0
