@@ -9,6 +9,10 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
+# Lab 3 training outputs
+lab3/runs/**/*.pth
+lab3/runs
+
 # IDE / OS
 .idea/
 .vscode/
